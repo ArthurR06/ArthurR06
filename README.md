@@ -26,14 +26,14 @@ Estou aprofundando meus conhecimentos por meio de projetos acadêmicos. As tecno
 
 ## Projetos selecionados
 
-| Projeto | O que desenvolvi e estudo |
+| Projeto | Objetivo e aprendizados |
 | --- | --- |
 | [Sistema FreeFlow](https://github.com/ArthurR06/SistemaFreeFlow) | Protótipo acadêmico de TCC para pedágio automático, com ESP32/RFID, FastAPI, registro de passagens e portais para clientes e concessionárias. Pagamentos demonstrativos e análise experimental de eventos. |
 | [API de Pedidos](https://github.com/ArthurR06/APIPedidos---Sistemas-Distribuidos) | Projeto em dupla de Sistemas Distribuídos: criação e consulta de pedidos, atualização de status e cálculo do total, com FastAPI, PostgreSQL e Docker Compose. |
 | [SmartStock](https://github.com/ArthurR06/SmartStock) | Sistema de controle de estoque com Java, Spring Boot e interface web. Reúne produtos, fornecedores, categorias e movimentações de estoque. |
 | [Emergy Calc](https://github.com/ArthurR06/emergy_calc) | Projeto acadêmico para cálculo emergético, importação de inventários CSV e indicadores de sustentabilidade, com FastAPI, SQLite e testes com Pytest. |
 
-Os repositórios contêm o código e o histórico de desenvolvimento. Nos projetos em equipe, a documentação apresenta a autoria compartilhada.
+Esta seleção reúne projetos acadêmicos e materiais de estudo. Os repositórios contêm o código e o histórico de desenvolvimento; a documentação de cada projeto apresenta os integrantes e os créditos de origem.
 
 ## Contato profissional
 
